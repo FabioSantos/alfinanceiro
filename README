@@ -1,9 +1,9 @@
-Sistema financeiro para consutas dos servidores da Assembleia Lesgilativa do
+Sistema financeiro para consultas dos servidores da Assembleia Legislativa do
 Estado do Amapá.
 
 1ª Etapa: CONTRA-CHEQUE
-          * Armasenar
-          * Dispolibilizar
+          * Armazenar
+          * Disponibilizar
 
 Tecnologias utilizadas:
     * linguagem de programação - Ruby com framework Rails;
