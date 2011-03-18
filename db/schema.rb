@@ -32,13 +32,14 @@ ActiveRecord::Schema.define(:version => 20110318022650) do
   create_table "core_usuarios", :force => true do |t|
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.boolean  "status",     :default => false
+    t.boolean  "status",        :default => false
     t.string   "nome"
     t.string   "cpf"
     t.integer  "matricula"
     t.string   "senha"
-    t.boolean  "admin",      :default => false
-    t.boolean  "su",         :default => false
+    t.boolean  "admin",         :default => false
+    t.boolean  "su",            :default => false
+    t.datetime "ultimo_acesso"
   end
 
   add_index "core_usuarios", ["cpf"], :name => "index_core_usuarios_on_cpf"

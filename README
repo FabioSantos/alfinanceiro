@@ -10,3 +10,10 @@ Tecnologias utilizadas:
     * sistema gerenciador de banco de dados – Postgres;
     * interface gráfica feita com HTML, CSS e Java Script com framework jQuery.
 
+Plugins utilizados:
+    * brazilian-rails
+    * inputs
+    * jrails
+    * simple_captcha
+    * will_paginate
+
