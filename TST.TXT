@@ -1,0 +1,7 @@
+009999JAVELIO MACHADO SIQUEIRA BARRETO037723UNIBANCOAssembléia Legislativa do Estado do AmapáMatrículaNomeIdentidadeComposição do SalárioLocal do PagamentoDiscriminação das parcelasAgênciaC/C140007-3Mês / AnoEventoDiscriminaçãoRefProventosDescontosDemonstrativo de Pagamento Mensal1529FunçãoData Admissão01/03/2005ASSESSOR ESPECIAL PARLAMENTARPIS/PASEPCPFRef.Dep.IR34187057234Fevereiro/20110CARGOS EM COMISSAOSeção02Area12539132326
+0003SUBSÍDIO0,002.160,002.0112/
+0011GRAT. SERV.  NOTURNO0,00280,002.0112/
+4003I.N.S.S.11,00268,402.0112/
+4004I.R.R.F.7,5050,442.0112/
+4052EMPRESTIMO UNIBANCO0,00465,982.0112/
+1.655,18Base Cálculo IRRFBase INSS/AMPREVTotal BrutoTotal dos DescontosLíquido a Receber => 2.440,00784,822.440,00Mensagem:
